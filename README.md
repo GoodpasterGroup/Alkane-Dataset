@@ -2,11 +2,14 @@
 datasets used for training evaluating neural networks
 
 Currently consist:
+
 read_h5.py to get statistic of each h5 package.
+
 
 DFT/
 
 All DFT data are generated with the ωB96x functional and 6-31G(d) basis set.
+
 
 ANI-1 core/
 
