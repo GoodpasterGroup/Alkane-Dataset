@@ -1,5 +1,5 @@
 # dataset
-datasets used for training evaluating neural networks
+datasets used for training and evaluating neural networks
 
 Currently consist:
 
