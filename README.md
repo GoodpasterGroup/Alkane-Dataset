@@ -6,6 +6,8 @@ read_h5.py to get statistic of each h5 package.
 
 DFT/
 
+All DFT data are generated with the ωB96x functional and 6-31G(d) basis set.
+
 ANI-1 core/
 
 consists core training data extracted from ANI-1 dataset https://www.nature.com/articles/sdata2017193
@@ -32,6 +34,3 @@ QBC/
 
 consists of query by committee selected MD geometries from g16MD datasets.
 
-CASPT2/
-
-datasets are deposited similar to DFT.
