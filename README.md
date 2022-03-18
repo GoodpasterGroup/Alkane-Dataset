@@ -1,4 +1,4 @@
-# dataset
+# Alkane dataset
 datasets used for training and evaluating neural networks
 
 Currently consist:
