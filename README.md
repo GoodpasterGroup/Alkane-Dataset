@@ -27,6 +27,3 @@ consists of MD geometries generated with gaussian16 BOMD algorithm.
 aseMD/
 consists of MD geometries generated with trained NN ensembles using ASE interface and velocity verlet algorithm.
 
-QBC/
-consists of query by committee selected MD geometries from g16MD datasets.
-
